@@ -4,7 +4,7 @@ A CLI app made using Javascript in Repl.it IDE
 ## About Project:
 This project was made while learning Javascript basics as part of Level Zero of [neog camp](https://neog.camp/guide/home).
 <br><br>
-** DO you know me Quiz ** The quiz consist five questions and user have to given answer.
+**DO you know me Quiz** The quiz consist five questions and user have to given answer.
 <br><br>
 The score is updated by one for "correct answer" and your current score will displayed.
 <br><br>
